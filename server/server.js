@@ -7,7 +7,7 @@ connectDB();
 
 const app = express();
 app.use(express.json());
-
+// IMPORT ROUTES
 // IMPORT ROUTES
 const authRoutes = require('./routes/authRoutes');
 
