@@ -1,5 +1,5 @@
 "use client";
-import Footer from "@/Components/Footer";
+import Footer from "../Components/Footer";
 import Header from "@/Components/Header";
 import { Badge } from "@/Components/ui/badge";
 import { Button } from "@/Components/ui/button";
